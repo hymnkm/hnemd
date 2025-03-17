@@ -1,4 +1,4 @@
-potential    /home/users/hyemin/Documents/a-FAPI/3x3x3/GPUMD/gpumd/nep_y2025_m02_d15_h22_m18_s41_generation100000.txt
+potential    nep_y2025_m02_d15_h22_m18_s41_generation100000.txt
 velocity     300
 
 ensemble     npt_ber 300 300 100 0 10 2000
